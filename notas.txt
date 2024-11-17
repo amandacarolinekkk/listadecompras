@@ -4,4 +4,6 @@ bananas
 maça
 alface 
 tomate 
-cebola 
+tangerina 
+mamao 
+melancia
